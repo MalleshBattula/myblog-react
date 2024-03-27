@@ -1,5 +1,5 @@
 import React from 'react';
-import mahilogo from '../Images/allteam.png';
+import mahilogo from '../Images/mypic2.png';
 import logo2   from '../Images/mylogo2.png';
 import handwave from '../Images/handwave.gif';
 
