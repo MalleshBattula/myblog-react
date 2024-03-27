@@ -39,7 +39,7 @@ const Mainfile = () => {
               <h3 style={{paddingRight:'380px'}}> I'm 
               </h3>
               
-              <h2> <span style={{color:'red'}}>BATTULA MALLESH</span>
+              <h2> <span style={{color:'red'}}>MAHI YADAV</span>
               </h2>
               <h4 style={{color:'blue',fontSize:'24px',paddingLeft:'90px'}}>-ReactJS Developer </h4>
               <p>
