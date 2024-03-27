@@ -41,7 +41,7 @@ const Mainfile = () => {
               
               <h2> <span style={{color:'red'}}>BATTULA MALLESH</span>
               </h2>
-              <h4 style={{color:'blue',fontSize:'24px',paddingLeft:'90px'}}>-Full Stack Developer </h4>
+              <h4 style={{color:'blue',fontSize:'24px',paddingLeft:'90px'}}>-ReactJS Developer </h4>
               <p>
               I am a <span  style={{color:''}}><b> 1+ year experienced </b> </span>,demonstrating
 a proactive approach and dedication to
